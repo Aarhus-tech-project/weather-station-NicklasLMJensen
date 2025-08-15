@@ -1,7 +1,12 @@
 Weatehr station H3 Nicklas Lykke Møller Jensen
 
+Jeg har sat et domæne op (nickschoolproject.uk), hvor du kan se mit arbejde. Du bliver ført til en Grafana-side, hvor du skal logge ind for at se temperatur, luftfugtighed og tryk.
+Brugernavn og adgangskode til denne bruger er:
+testuser
+Datait2025!
 
-Weather station connects to the wifi network with the infomation in a file called "Arduino_secrets.h" but is in .gitignore to keep wifi passwords private. The file is structored like below
+Vejrstationen forbinder til Wi-Fi med oplysninger, som findes i filen “Arduino_secrets.h”, men den er med i .gitignore for at holde Wi-Fi-adgangskoden privat. Filen ser ud som nedenfor.
+
 
 
 
